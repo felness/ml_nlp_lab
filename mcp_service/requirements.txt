@@ -1,0 +1,10 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+fastmcp==2.3.4
+httpx==0.28.1
+scikit-learn==1.5.2
+pandas==2.2.3
+numpy==1.26.4
+ucimlrepo==0.0.7
+joblib==1.4.2
+pydantic==2.10.3
